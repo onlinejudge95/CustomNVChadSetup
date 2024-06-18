@@ -14,11 +14,11 @@ In order to use this config please follow the below isntructions.
 - Clone this repo at your local path.
 
 ```bash
-git clone git@github.com:onlinejudge95/CustomNVChadSetup.git ~/workspace/CustomNVChadSetup/
+git clone git@github.com:onlinejudge95/CustomNVChadSetup.git
 ```
 
 - Copy the custom dir from this repo to the nvchad dir.
 
 ```bash
-cp --recursive ~/workspace/CustomNVChadSetup/custom ~/.config/nvim/lua/custom
+cp --recursive custom ~/.config/nvim/lua
 ```
