@@ -6,7 +6,7 @@ local on_attach = base.on_attach
 local capabilities = base.capabilities
 
 local language_servers = {
-  ["pyright"] = {
+  ["ruff"] = {
     ["filetypes"] = {"python"},
   },
   ["gopls"] = {
