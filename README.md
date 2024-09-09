@@ -1,5 +1,8 @@
 # CustomNVChadSetup
 
+## Important
+This repo is archived in favour of the dotfiles repo located at https://github.com/onlinejudge95/dotfiles.
+
 This is a configuration i use as part of my neovim setup. This config is based on NVChad, the link for which can be found [here](https://nvchad.com/).
 This config provides a dedicated IDE experience for neovim for the following set of language stacks.
 
